@@ -3,40 +3,40 @@
 This page shows the detailed updates of each app version.
 Please get in touch with us at [hello@epictopia.com](hello@epictopia.com) if you have any issues, feedback, or thoughts.
 
-# 1.9.9: Explore Page Enhancement
+# 1.9.9: 📌Explore Page Enhancement
 
 `Mar 20, 2025`
 
-## New Feature
+## ✨New Feature
 - Explore Others' Epics: The Explore page has been updated to allow users to view Epics from other users on popular topics, facilitating greater community inspiration.
 
 
-# 1.9.8: Guest Mode Improvements
+# 1.9.8: 🚀Guest Mode Improvements
 
 `Mar 17, 2025`
 
 Version 1.9.8 introduces important enhancements that improve functionality for AI-created Epics and expand capabilities in guest mode.
 
-## Enhancements
+## ⚙️Enhancements
 - AI-Created Epics with Automatic Reminders: For AI-created to-do tasks, reminders are now automatically enabled to ensure users stay on track with their goals without needing to set reminders manually.
 - Enhanced Guest Mode: Enhanced accessibility for non-registered users to view detailed pages on Epics.
 
 
-# 1.9.7: Cheers & Invite External Collaborators
+# 🎉1.9.7: Cheers & Invite External Collaborators
 
 `Mar 11, 2025`
 
-## New Feature
+## ✨New Feature
 - Cheers: Encourage and celebrate other users' progress by sending one of five unique cheers to their Epics, fostering a supportive community environment.
 - Email Invitations for Collaboration: Now you can invite external users to collaborate or view your Epic through email invitations, broadening the scope for teamwork and shared access.
 
-## Enhancement
+## ⚙️Enhancement
 - Revamped Collaborator & Viewer Management UI: The user interface for managing collaborators and viewers has been redesigned to be more intuitive and user-friendly, making it easier to control access and permissions.
 - Focus Mode with Live Activities: Enhance focus sessions with Live Activities on the Lock Screen and the Dynamic Island, improving visibility during focus sessions.
 - Expanded Tracker: Increased the number of trackers supported for each Epic, now allowing up to 20 trackers to be used, doubling the capacity.
 - Enhanced Permission Descriptions: Improved the description strings for accessing the microphone and photo library, clarifying the usage and enhancing user understanding.
 
-## Bug Fixes
+## 🐛Bug Fixes
 - Addressed a bug that caused the app to crash on profile views.
 - Resolved an issue where notifications were sometimes unresponsive to clicks.
 
